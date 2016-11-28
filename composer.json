@@ -10,5 +10,8 @@
     ],
     "autoload":{
         "psr-4":{"yii\\simpleQueue\\":""}
+    },
+    "require":{
+        "yiisoft/yii2":"*"
     }
 }
