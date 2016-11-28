@@ -1,0 +1,14 @@
+{
+    "name":"wolf432/simpleQueue",
+    "description":"yii的一个简单队列组件",
+    "keywords":["yii2","queue"],
+    "authors":[
+        {
+            "name":"Li Nan",
+            "email":"linan731@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{"yii\\simpleQueue\\":""}
+    }
+}
