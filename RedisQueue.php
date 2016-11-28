@@ -1,6 +1,6 @@
 <?php
 
-namespace polar\components\simpleQueue;
+namespace yii\simpleQueue;
 
 use yii\db\Connection;
 use yii\di\Instance;
@@ -23,7 +23,7 @@ use yii\di\Instance;
  *          'table_name'=> 'queue',
  *       ]
  *   ]
- * @author linan<linan@51cto.com>
+ * @author linan<linan731@gmail.com>
  */
 class RedisQueue extends \yii\base\Component implements BaseInterface
 {

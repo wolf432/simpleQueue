@@ -1,6 +1,6 @@
 <?php
 
-namespace polar\components\simpleQueue;
+namespace yii\simpleQueue;
 
 use yii\db\Connection;
 use yii\di\Instance;
@@ -33,7 +33,7 @@ use yii\di\Instance;
  * ) ENGINE=InnoDB AUTO_INCREMENT=8 DEFAULT CHARSET=utf8;
  * 
  *
- * @author linan<linan@51cto.com>
+ * @author linan<linan731@gmail.com>
  */
 class MysqlQueue extends \yii\base\Component implements BaseInterface 
 {

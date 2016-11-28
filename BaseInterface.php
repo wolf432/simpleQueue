@@ -1,9 +1,9 @@
 <?
-namespace polar\components\simpleQueue;
+namespace yii\simpleQueue;
 
 /**
  * 队列的基础操作接口
- * @author linan<linan@51cto.com>
+ * @author linan<linan731@gmail.com>
  * @date    2016-08-17
  */
 interface BaseInterface
